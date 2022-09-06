@@ -31,7 +31,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Github](https://github.com/Mr-NotSoCreative/profile-card-component-main)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://mr-notsocreative.github.io/profile-card-component-main/)
 
 ## My process
 
