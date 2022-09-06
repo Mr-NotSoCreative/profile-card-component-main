@@ -23,6 +23,7 @@ body {
 .container {
   min-height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   margin: 0 1.5rem;
@@ -88,6 +89,14 @@ hr {
 span {
   margin-left: 10px;
   font-weight: 400;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: white;
+  /* font-weight: bold; */
 }
 @media screen and (max-width: 810px) {
   .container {
